@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Petryk_Hellomagento>
+            <version>0.1.0</version>
+        </Petryk_Hellomagento>
+    </modules>
+    <frontend>
+        <routers>
+            <petryk_hellomagento>
+                <use>standard</use>
+                <args>
+                    <module>Petryk_Hellomagento</module>
+                    <frontName>petryk_hellomagento</frontName>
+                </args>
+            </petryk_hellomagento>
+        </routers>
+    </frontend>
+</config>

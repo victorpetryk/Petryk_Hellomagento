@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Petryk_Hellomagento>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Petryk_Hellomagento>
+    </modules>
+</config>
